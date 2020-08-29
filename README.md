@@ -23,7 +23,6 @@ I'm a Software Engineer from *Greece* 🇬🇷 and I currently work for *Mallinc
 <br />
 
 ### Connect with me:
-
 [<img align="left" alt="LinkedIn" width="22px" 
 src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/ioannis-margaris/)
 
@@ -32,6 +31,10 @@ src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https:
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/ioannis_margaris/)
 
 <br />
+
+### Download my Resume:
+[Click here to download](https://drive.google.com/file/d/1G9LyDVK-QNI79DU1q8rFbFLT73QUpBy1/view?usp=sharing)
+
 <br />
 
 [![My github stats](https://github-readme-stats.vercel.app/api?username=iomargaris)](https://github.com/iomargaris/github-readme-stats)
