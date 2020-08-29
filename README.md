@@ -7,7 +7,8 @@ I'm a Software Engineer from *Greece* 🇬🇷 and I currently work for *Mallinc
 - 🥅 2020 Goals: Complete the C++ Developer Nanodegree, create an android app and start contributing to Open Source projects
 - ⚡ Fun fact: Apart from coding, I love hiking, cooking and playing games!
 
-![](code.gif)
+<!-- ![](code.gif) -->
+<img alt="GIF" src="https://github.com/IoMargaris/IoMargaris/blob/master/code.gif?raw=true" width="500" height="320" />
 
 ### Languages and Tools:
 
