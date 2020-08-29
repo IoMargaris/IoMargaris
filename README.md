@@ -33,4 +33,4 @@ src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https:
 
 [![My github stats](https://github-readme-stats.vercel.app/api?username=iomargaris)](https://github.com/iomargaris/github-readme-stats)
 
-![](https://visitor-badge.glitch.me/badge?page_id=IoMargaris.IoMargaris)
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=IoMargaris alt=IoMargaris/> </p>
