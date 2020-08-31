@@ -1,13 +1,12 @@
 ## Hi there 👋 I'm Ioannis!
 
-I'm a Software Engineer from *Greece* 🇬🇷 and I currently work for *Mallinckrodt Pharmaceuticals* in Dublin, Ireland
+I'm a Software Engineer from *Greece* and I currently work for *Mallinckrodt Pharmaceuticals* in Dublin, Ireland
 
 - 🔭 I’m currently working on [Udacity's C++ Developer Nanodegree](https://www.udacity.com/course/c-plus-plus-nanodegree--nd213)
 - 🌱 I’m currently learning C++
 - 🥅 2020 Goals: Complete the C++ Developer Nanodegree, create an android app and start contributing to Open Source projects
 - ⚡ Fun fact: Apart from coding, I love hiking, cooking and playing games!
 
-<!-- ![](code.gif) -->
 <img alt="GIF" src="https://github.com/IoMargaris/IoMargaris/blob/master/code.gif?raw=true" width="500" height="320" />
 
 ### Languages and Tools:
