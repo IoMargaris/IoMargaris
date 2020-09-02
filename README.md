@@ -39,3 +39,7 @@ src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https:
 [![My github stats](https://github-readme-stats.vercel.app/api?username=iomargaris)](https://github.com/iomargaris/github-readme-stats)
 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=IoMargaris alt=IoMargaris/> </p>
+
+### Spotify Now Playing 🎧
+
+[<img src="https://spotify-now-playing-git-master.iomargaris.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/<iomargaris>)
