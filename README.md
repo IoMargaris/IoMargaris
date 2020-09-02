@@ -40,6 +40,7 @@ src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https:
 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=IoMargaris alt=IoMargaris/> </p>
 
-### Spotify Playing 🎧
+<br />
 
-[<img src="spotify-now-playing-5x6lzyhjz.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/iomargaris)
+### Spotify Playing 🎧
+[<img src="https://spotify-now-playing.iomargaris.vercel.app/api/spotify-now-playing" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
