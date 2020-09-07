@@ -2,9 +2,9 @@
 
 I'm a Software Engineer from *Greece* and I currently work for *Mallinckrodt Pharmaceuticals* in Dublin, Ireland
 
-- 🐱‍💻 I’m currently working on [Udacity's C++ Developer Nanodegree](https://www.udacity.com/course/c-plus-plus-nanodegree--nd213)
+- 🐱‍💻 I just completed the [Udacity's C++ Developer Nanodegree](https://www.udacity.com/course/c-plus-plus-nanodegree--nd213)
 - 📗 I’m currently learning C++
-- ⭐ 2020 Goals: Complete the C++ Developer Nanodegree Program ✔️, create an Arcade game in C++ ✔️ and creating my first Pull Request on an Open Source Project 🔄
+- ⭐ 2020 Goals: Complete the C++ Developer Nanodegree Program ✔️, create an Arcade game in C++ ✔️ and create my first Pull Request on an Open Source Project 🔄
 - ⚡ Hobbies: Apart from coding, I love hiking, cooking and playing games!
 - ☕ Fun Fact: I love coffee!
 
