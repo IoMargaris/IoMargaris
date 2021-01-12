@@ -38,7 +38,7 @@ src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https:
 <br />
 
 ### Download my Resume:
-[Click here to download](https://drive.google.com/file/d/1G9LyDVK-QNI79DU1q8rFbFLT73QUpBy1/view?usp=sharing)
+[Click here to download](https://drive.google.com/file/d/1o1JKKZS0SBOUetCDuhDgWJWhZbKiiCAm/view?usp=sharing)
 
 <br />
 
