@@ -1,10 +1,9 @@
 ## Hi there 👋 I'm Ioannis!
 
-I'm a Software Engineer from *Greece* and I currently work for *Mallinckrodt Pharmaceuticals* in Dublin, Ireland
+I'm an Engineer from *Greece* and I currently work remotely as a Senior Software Assurance Engineer for *Medtronic* in Ireland
 
-- 🐱‍💻 I just completed the [Udacity's C++ Developer Nanodegree](https://www.udacity.com/course/c-plus-plus-nanodegree--nd213)
-- 📗 I’m currently learning C++
-- ⭐ 2021 Goals: Under Investigation...
+- 📗 I recently became a dad! ❤
+- ⭐ 2022 Goals: Under Investigation...
 - ⚡ Hobbies: Apart from coding, I love hiking, football, cooking, photography and playing games!
 - 🧘 Fun Fact: I love meditation & Yoga!
 
