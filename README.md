@@ -16,6 +16,8 @@ I'm an Engineer from *Greece* and I currently work remotely as a Senior Software
 
 ### Languages and Tools:
 
+[<img align="left" alt="Kotlin" width="26px" src="https://user-images.githubusercontent.com/7558821/162273692-39983e0d-7c01-40fb-b694-b0b66b51ad02.png" />]()
+[<img align="left" alt="Android_Studio" width="26px" src="https://user-images.githubusercontent.com/7558821/162274164-80ff843f-e138-4c9f-8955-8b303ca326fb.png" />]()
 [<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />]()
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />]()
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]()
@@ -23,6 +25,8 @@ I'm an Engineer from *Greece* and I currently work remotely as a Senior Software
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]()
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]()
 [<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />]()
+
+
 
 <br />
 
