@@ -2,10 +2,10 @@
 
 I'm an Engineer from *Greece* and I currently work remotely as a Senior Software Assurance Engineer for *Medtronic* in Ireland
 
-- 📗 I recently became a dad! ❤
-- ⭐ 2022 Goals: Under Investigation...
-- ⚡ Hobbies: Apart from coding, I love hiking, football, cooking, photography and playing games!
-- 🧘 Fun Fact: I love meditation & Yoga!
+- ❤ I recently became a dad! 
+- 📗 2022 Goals: Learn Android Development!
+- ⚡ Hobbies: Apart from coding, I love hiking, cooking, photography and of course playing games!
+- 🧘 Fun Fact: I love meditating & doing Yoga!
 
 <!--
 <img alt="GIF" src="https://github.com/IoMargaris/IoMargaris/blob/master/code.gif?raw=true" width="500" height="320" />
