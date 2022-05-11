@@ -41,7 +41,7 @@ src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https:
 <br />
 
 ### Download my Resume:
-[Click here to download](https://drive.google.com/file/d/1o1JKKZS0SBOUetCDuhDgWJWhZbKiiCAm/view?usp=sharing)
+[Click here to download](https://drive.google.com/file/d/1t7BrXhHeiPTBTnpYBh8MfRg0SD43jWXd/view?usp=sharing)
 
 <br />
 
