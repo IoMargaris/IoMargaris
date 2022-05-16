@@ -1,15 +1,17 @@
 ## Hi there 👋 I'm Ioannis!
 
-I'm an Engineer from *Greece* and I currently work remotely as a Senior Software QA Engineer for *Medtronic* in Ireland
+I'm an Engineer from *Greece*, I currently work remotely as a Senior Software QA Engineer for *Medtronic* in Ireland and I'm looking to transition into an Android Developer!
 
-- ❤ I recently became a dad! 
-- 📗 2022 Goals: Android Development!
-- ⚡ Hobbies: Apart from coding, I love hiking, cooking, photography and of course playing games!
-- 🧘 Fun Fact: I love meditating & doing Yoga!
-
+- 📗 2022 Goals: Build an Android Development portfolio!
+- ⚡ Hobbies: Apart from coding, I love hiking, cooking, photography, meditation, Yoga and of course playing games!
+- ❤ Fun Fact: I recently became a dad! 
+<br/>
 <!--
 <img alt="GIF" src="https://github.com/IoMargaris/IoMargaris/blob/master/code.gif?raw=true" width="500" height="320" />
 <img alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+<img alt="GIF" src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC" />
+<img alt="GIF" src="https://giphy.com/gifs/SWoSkN6DxTszqIKEqv" />
+![giphy](https://user-images.githubusercontent.com/7558821/168682318-f1a04a52-33ec-4836-b03e-f5d745988690.gif)
 -->
 
 <img alt="GIF" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" />
