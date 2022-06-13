@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Ioannis!
 
-I'm an Engineer from *Greece*, I currently work remotely as a Senior Software QA Engineer for *Medtronic* in Ireland and I'm looking to transition into an Android Developer!
+I'm an Engineer from *Greece*, I currently work remotely as a Senior Software QA Engineer for *Medtronic* in Ireland!
 
 - 📗 2022 Goals: Build an Android Development portfolio!
 - ⚡ Hobbies: Apart from coding, I love hiking, cooking, photography, meditation, Yoga and of course playing games!
