@@ -2,7 +2,7 @@
 
 I'm an Engineer from *Greece*, I currently work remotely as a Senior Software QA Engineer for *Medtronic* in Ireland!
 
-- 📗 2022 Goals: Build an Android Development portfolio!
+- 📗 2023 Goals: Read 10 books!
 - ⚡ Hobbies: Apart from coding, I love hiking, cooking, photography, meditation, Yoga and of course playing games!
 - ❤ Fun Fact: I recently became a dad! 
 <br/>
